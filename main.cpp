@@ -132,8 +132,11 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
 			
 			//–ß‚é
 			if (changeR >= 1000 && changeBack == 0) {
+				//‚±‚±‚ÅƒV[ƒ“Ø‚è‘Ö‚¦
+
 				changeBack = 1;
 				scene = 1;
+				////////////////////
 			}
 			break;
 		case 1:
